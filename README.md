@@ -70,6 +70,10 @@ yarn dev
 <h4> Check out NodeJS Authentication Challenge <a href="https://github.com/yarapolana/nodejs-auth-api">here</a>.</h4>
 
 ---
+### License:
+
+This project is made available under the [MIT LICENSE](LICENSE.md).
+
 ### Authors:
 
 <p>
