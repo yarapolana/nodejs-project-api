@@ -67,7 +67,7 @@ yarn dev
 
 ---
 
-<h4> Check out version 2 of this application <a href="">here</a>.</h4>
+<h4> Check out NodeJS Authentication Challenge <a href="https://github.com/yarapolana/nodejs-auth-api">here</a>.</h4>
 
 ---
 ### Authors:
