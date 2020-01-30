@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/package-json/dependency-version/yarapolana/nodejs-project-api/express.svg" >
-  <img src="https://img.shields.io/github/license/yarapolana/nodejs-project-api.svg" >
+  <img src="https://img.shields.io/github/license/yarapolana/nodejs-project-api" >
   <a href="https://yarapolana.com"><img src="https://img.shields.io/badge/createdby-yarapolana-red.svg" ></a>
 </p>
 
